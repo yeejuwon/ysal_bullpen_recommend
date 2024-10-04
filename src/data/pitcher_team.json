@@ -1,0 +1,1478 @@
+[
+  {
+    "Name": "Albert Abreu",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Bryan Abreu",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Jason Adam",
+    "Team": "SD"
+  },
+  {
+    "Name": "Austin Adams",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Keegan Akin",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Matt Albers",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Jorge Alcala",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Scott Alexander",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Tyler Alexander",
+    "Team": "TB"
+  },
+  {
+    "Name": "Cody Allen",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Yency Almonte",
+    "Team": "CHC"
+  },
+  {
+    "Name": "José Alvarado",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Jose Alvarez",
+    "Team": "SF"
+  },
+  {
+    "Name": "Adbert Alzolay",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Justin Anderson",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Nick Anderson",
+    "Team": "KC"
+  },
+  {
+    "Name": "Matt Andriese",
+    "Team": "MIA"
+  },
+  {
+    "Name": "Víctor Arano",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Shawn Armstrong",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Luis Avilán",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Bryan Baker",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Anthony Banda",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Tanner Banks",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Daniel Bard",
+    "Team": "COL"
+  },
+  {
+    "Name": "Scott Barlow",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Jacob Barnes",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Matt Barnes",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Kyle Barraclough",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Jaime Barria",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Anthony Bass",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Félix Bautista",
+    "Team": "BAL"
+  },
+  {
+    "Name": "David Bednar",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Cam Bedrosian",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Jalen Beeks",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Joe Biagini",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Phil Bickford",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Jesse Biddle",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Jake Bird",
+    "Team": "COL"
+  },
+  {
+    "Name": "Ty Blach",
+    "Team": "COL"
+  },
+  {
+    "Name": "Richard Bleier",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Ryan Borucki",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Brad Boxberger",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Brad Brach",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Archie Bradley",
+    "Team": "MIA"
+  },
+  {
+    "Name": "Matt Brash",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Ryan Brasier",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Steven Brault",
+    "Team": "CHC"
+  },
+  {
+    "Name": "John Brebbia",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Austin Brice",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Jeff Brigham",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Zack Britton",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Connor Brogdon",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Ryan Buchter",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Aaron Bummer",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Brock Burke",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Ty Buttrey",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Pedro Báez",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Génesis Cabrera",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Diego Castillo",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Miguel Castro",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Luis Cessa",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Jhoulys Chacín",
+    "Team": "COL"
+  },
+  {
+    "Name": "Andrew Chafin",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Aroldis Chapman",
+    "Team": "PIT"
+  },
+  {
+    "Name": "JT Chargois",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Tyler Chatwood",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Jesse Chavez",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Yonny Chirinos",
+    "Team": "MIA"
+  },
+  {
+    "Name": "Adam Cimber",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Steve Cishek",
+    "Team": "WSH"
+  },
+  {
+    "Name": "José Cisnero",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Taylor Clarke",
+    "Team": "KC"
+  },
+  {
+    "Name": "Emmanuel Clase",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Alex Claudio",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Tyler Clippard",
+    "Team": "WSH"
+  },
+  {
+    "Name": "A.J. Cole",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Dylan Coleman",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Alex Colomé",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Adam Conley",
+    "Team": "TB"
+  },
+  {
+    "Name": "Sam Coonrod",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Jimmy Cordero",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Nestor Cortes",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Danny Coulombe",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Kyle Crick",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Nabil Crismatt",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Jose Cuas",
+    "Team": "KC"
+  },
+  {
+    "Name": "Austin Davis",
+    "Team": "SD"
+  },
+  {
+    "Name": "Wade Davis",
+    "Team": "KC"
+  },
+  {
+    "Name": "Enyel De Los Santos",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Ross Detwiler",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Chris Devenski",
+    "Team": "TB"
+  },
+  {
+    "Name": "Jake Diekman",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Seranthony Domínguez",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Sean Doolittle",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Camilo Doval",
+    "Team": "SF"
+  },
+  {
+    "Name": "Oliver Drake",
+    "Team": "TB"
+  },
+  {
+    "Name": "Tyler Duffey",
+    "Team": "KC"
+  },
+  {
+    "Name": "Jhoan Duran",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Sam Dyson",
+    "Team": "SF"
+  },
+  {
+    "Name": "Alexis Díaz",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Edwin Díaz",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Carl Edwards Jr.",
+    "Team": "SD"
+  },
+  {
+    "Name": "Robbie Erlin",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Carlos Estévez",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Pete Fairbanks",
+    "Team": "TB"
+  },
+  {
+    "Name": "Jeurys Familia",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Buck Farmer",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Michael Feliz",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Caleb Ferguson",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Kyle Finnegan",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Josh Fleming",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Dylan Floro",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Brian Flynn",
+    "Team": "KC"
+  },
+  {
+    "Name": "Jason Foley",
+    "Team": "DET"
+  },
+  {
+    "Name": "Wilmer Font",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Matt Foster",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Jace Fry",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Paul Fry",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Michael Fulmer",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Giovanny Gallegos",
+    "Team": "STL"
+  },
+  {
+    "Name": "John Gant",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Jarlín García",
+    "Team": "SF"
+  },
+  {
+    "Name": "Luis García",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Yimi García",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Amir Garrett",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Sam Gaviglio",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Cory Gearrin",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Ian Gibaut",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Ken Giles",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Kevin Ginkel",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Mychal Givens",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Trevor Gott",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Matt Grace",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Brusdar Graterol",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Kendall Graveman",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Chad Green",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Shane Greene",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Robert Gsellman",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Javy Guerra",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Junior Guerra",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Tayron Guerrero",
+    "Team": "MIA"
+  },
+  {
+    "Name": "Josh Hader",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Brad Hand",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Ryne Harper",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Will Harris",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Hunter Harvey",
+    "Team": "KC"
+  },
+  {
+    "Name": "Taylor Hearn",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Ryan Helsley",
+    "Team": "STL"
+  },
+  {
+    "Name": "Heath Hembree",
+    "Team": "TB"
+  },
+  {
+    "Name": "Liam Hendriks",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Sam Hentges",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Jimmy Herget",
+    "Team": "ATL"
+  },
+  {
+    "Name": "David Hernandez",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Carlos Hernández",
+    "Team": "KC"
+  },
+  {
+    "Name": "Jonathan Hernández",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Kelvin Herrera",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Jordan Hicks",
+    "Team": "SF"
+  },
+  {
+    "Name": "Trevor Hildenberger",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Tim Hill",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Yoshihisa Hirano",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Jeff Hoffman",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Jonathan Holder",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Derek Holland",
+    "Team": "DET"
+  },
+  {
+    "Name": "Greg Holland",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Clay Holmes",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Sam Howard",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Daniel Hudson",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Jared Hughes",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Tommy Hunter",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Raisel Iglesias",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Luke Jackson",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Kenley Jansen",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Griffin Jax",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Jeremy Jeffress",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Joe Jiménez",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Pierce Johnson",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Jakob Junis",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Tommy Kahnle",
+    "Team": "NYY"
+  },
+  {
+    "Name": "James Karinchak",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Joe Kelly",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Ian Kennedy",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Craig Kimbrel",
+    "Team": "BAL"
+  },
+  {
+    "Name": "John King",
+    "Team": "STL"
+  },
+  {
+    "Name": "Michael King",
+    "Team": "SD"
+  },
+  {
+    "Name": "Tyler Kinley",
+    "Team": "COL"
+  },
+  {
+    "Name": "Brandon Kintzler",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Andrew Kittredge",
+    "Team": "STL"
+  },
+  {
+    "Name": "Corey Knebel",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Adam Kolarek",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Alex Lange",
+    "Team": "DET"
+  },
+  {
+    "Name": "Derek Law",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Justin Lawrence",
+    "Team": "COL"
+  },
+  {
+    "Name": "Wade LeBlanc",
+    "Team": "STL"
+  },
+  {
+    "Name": "José Leclerc",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Mark Leiter Jr.",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Dominic Leone",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Zack Littell",
+    "Team": "TB"
+  },
+  {
+    "Name": "Michael Lorenzen",
+    "Team": "KC"
+  },
+  {
+    "Name": "Aaron Loup",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Jonathan Loáisiga",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Lucas Luetge",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Seth Lugo",
+    "Team": "KC"
+  },
+  {
+    "Name": "Jorge López",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Reynaldo López",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Yoan López",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Andrés Machado",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Matt Magill",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Joe Mantiply",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Evan Marshall",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Brett Martin",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Chris Martin",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Nick Martinez",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Phil Maton",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Tyler Matzek",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Trevor May",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Mike Mayers",
+    "Team": "KC"
+  },
+  {
+    "Name": "Tim Mayza",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Kevin McCarthy",
+    "Team": "KC"
+  },
+  {
+    "Name": "T.J. McFarland",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Jake McGee",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Collin McHugh",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Trevor Megill",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Mark Melancon",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Julian Merryweather",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Keynan Middleton",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Andrew Miller",
+    "Team": "STL"
+  },
+  {
+    "Name": "Hoby Milner",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Tommy Milone",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Juan Minaya",
+    "Team": "MIN"
+  },
+  {
+    "Name": "A.J. Minter",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Anthony Misiewicz",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Sam Moll",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Rafael Montero",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Matt Moore",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Dauri Moreta",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Adam Morgan",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Eli Morgan",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Reyes Moronta",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Andrés Muñoz",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Kyle Nelson",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Nick Nelson",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Héctor Neris",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Sean Newcomb",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Juan Nicasio",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Daniel Norris",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Scott Oberg",
+    "Team": "COL"
+  },
+  {
+    "Name": "Steven Okert",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Josh Osich",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Roberto Osuna",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Adam Ottavino",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Emilio Pagán",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Andre Pallante",
+    "Team": "STL"
+  },
+  {
+    "Name": "Blake Parker",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Joel Payamps",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Wandy Peralta",
+    "Team": "SD"
+  },
+  {
+    "Name": "Wily Peralta",
+    "Team": "DET"
+  },
+  {
+    "Name": "Luis Perdomo",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Yusmeiro Petit",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Félix Peña",
+    "Team": "LAA"
+  },
+  {
+    "Name": "David Phelps",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Evan Phillips",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Colin Poche",
+    "Team": "TB"
+  },
+  {
+    "Name": "Zach Pop",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Ryan Pressly",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Austin Pruitt",
+    "Team": "TEX"
+  },
+  {
+    "Name": "A.J. Puk",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Cionel Pérez",
+    "Team": "BAL"
+  },
+  {
+    "Name": "José Quijada",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Tanner Rainey",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Brooks Raley",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Nick Ramirez",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Noé Ramirez",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Erasmo Ramírez",
+    "Team": "TB"
+  },
+  {
+    "Name": "Yohan Ramírez",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Alex Reyes",
+    "Team": "STL"
+  },
+  {
+    "Name": "Trevor Richards",
+    "Team": "MIN"
+  },
+  {
+    "Name": "David Robertson",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Hansel Robles",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Fernando Rodney",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Joely Rodríguez",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Richard Rodríguez",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Chaz Roe",
+    "Team": "TB"
+  },
+  {
+    "Name": "Taylor Rogers",
+    "Team": "SF"
+  },
+  {
+    "Name": "Tyler Rogers",
+    "Team": "SF"
+  },
+  {
+    "Name": "Jordan Romano",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Sergio Romo",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Héctor Rondón",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Michael Rucker",
+    "Team": "CHC"
+  },
+  {
+    "Name": "José Ruiz",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Casey Sadler",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Nick Sandlin",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Dennis Santana",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Edgar Santana",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Héctor Santiago",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Hirokazu Sawamura",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Josh Sborz",
+    "Team": "TEX"
+  },
+  {
+    "Name": "John Schreiber",
+    "Team": "KC"
+  },
+  {
+    "Name": "Tanner Scott",
+    "Team": "SD"
+  },
+  {
+    "Name": "Paul Sewald",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Bryan Shaw",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Chasen Shreve",
+    "Team": "COL"
+  },
+  {
+    "Name": "Lucas Sims",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Burch Smith",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Caleb Smith",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Drew Smith",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Joe Smith",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Will Smith",
+    "Team": "KC"
+  },
+  {
+    "Name": "Joakim Soria",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Gregory Soto",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Jeffrey Springs",
+    "Team": "TB"
+  },
+  {
+    "Name": "Craig Stammen",
+    "Team": "SD"
+  },
+  {
+    "Name": "Ryne Stanek",
+    "Team": "NYM"
+  },
+  {
+    "Name": "Josh Staumont",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Drew Steckenrider",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Trevor Stephan",
+    "Team": "CLE"
+  },
+  {
+    "Name": "Jackson Stephens",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Robert Stephenson",
+    "Team": "TB"
+  },
+  {
+    "Name": "Matt Strahm",
+    "Team": "PHI"
+  },
+  {
+    "Name": "Chris Stratton",
+    "Team": "KC"
+  },
+  {
+    "Name": "Hunter Strickland",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Ross Stripling",
+    "Team": "OAK"
+  },
+  {
+    "Name": "Pedro Strop",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Wander Suero",
+    "Team": "HOU"
+  },
+  {
+    "Name": "Cole Sulser",
+    "Team": "TB"
+  },
+  {
+    "Name": "Brent Suter",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Erik Swanson",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Anthony Swarzak",
+    "Team": "KC"
+  },
+  {
+    "Name": "Dillon Tate",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Josh Taylor",
+    "Team": "KC"
+  },
+  {
+    "Name": "Ryan Tepera",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Caleb Thielbar",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Keegan Thompson",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Mason Thompson",
+    "Team": "WSH"
+  },
+  {
+    "Name": "Ryan Thompson",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Trent Thornton",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Josh Tomlin",
+    "Team": "ATL"
+  },
+  {
+    "Name": "Blake Treinen",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Lou Trivino",
+    "Team": "NYY"
+  },
+  {
+    "Name": "Duane Underwood Jr.",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Phillips Valdez",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Drew VerHagen",
+    "Team": "STL"
+  },
+  {
+    "Name": "Alex Vesia",
+    "Team": "LAD"
+  },
+  {
+    "Name": "Will Vest",
+    "Team": "DET"
+  },
+  {
+    "Name": "Nick Vincent",
+    "Team": "MIN"
+  },
+  {
+    "Name": "Austin Voth",
+    "Team": "SEA"
+  },
+  {
+    "Name": "Felipe Vázquez",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Marcus Walden",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Andrew Wantz",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Tony Watson",
+    "Team": "LAA"
+  },
+  {
+    "Name": "Jacob Webb",
+    "Team": "BAL"
+  },
+  {
+    "Name": "Tyler Webb",
+    "Team": "STL"
+  },
+  {
+    "Name": "Jordan Weems",
+    "Team": "WSH"
+  },
+  {
+    "Name": "J.B. Wendelken",
+    "Team": "ARI"
+  },
+  {
+    "Name": "Garrett Whitlock",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Rowan Wick",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Devin Williams",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Taylor Williams",
+    "Team": "MIA"
+  },
+  {
+    "Name": "Bryse Wilson",
+    "Team": "MIL"
+  },
+  {
+    "Name": "Justin Wilson",
+    "Team": "CIN"
+  },
+  {
+    "Name": "Steven Wilson",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Dan Winkler",
+    "Team": "CHC"
+  },
+  {
+    "Name": "Matt Wisler",
+    "Team": "TB"
+  },
+  {
+    "Name": "Nick Wittgren",
+    "Team": "KC"
+  },
+  {
+    "Name": "Jake Woodford",
+    "Team": "PIT"
+  },
+  {
+    "Name": "Brandon Workman",
+    "Team": "BOS"
+  },
+  {
+    "Name": "Mike Wright Jr.",
+    "Team": "CWS"
+  },
+  {
+    "Name": "Ryan Yarbrough",
+    "Team": "TOR"
+  },
+  {
+    "Name": "Kirby Yates",
+    "Team": "TEX"
+  },
+  {
+    "Name": "Alex Young",
+    "Team": "NYM"
+  }
+]

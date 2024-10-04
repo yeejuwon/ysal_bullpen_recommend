@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 한 줄에 6개의 팀 카드 배치 */
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.team-card {
+  background-color: white;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  transition: transform 0.3s, border-color 0.3s;
+}
+
+.team-card:hover {
+  transform: translateY(-10px);
+  border-color: red;
+  cursor: pointer;
+}
+
+.team-logo {
+  display: block;
+  margin: 0 auto 20px; /* 로고와 팀명 사이에 간격 추가 */
+  height: 100px; /* 로고 높이를 조절 */
+}
+
+.team-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+  margin-top: 10px; /* 팀명과 로고 사이 간격 추가 */
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: red;
+  color: white;
+}
+
+.team-card:active {
+  background-color: lightgray;
+}

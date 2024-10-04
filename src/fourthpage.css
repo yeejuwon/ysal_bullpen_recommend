@@ -1,0 +1,29 @@
+.fourth-page {
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 2em; /* 기존 제목 폰트 사이즈 */
+    margin-bottom: 30px; /* eRE값 및 상황 선택 사이의 간격 */
+  }
+  
+  .option {
+    margin-bottom: 10px;
+    font-size: 1.3em; /* 옵션 폰트 사이즈를 약간 키움 */
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px; /* 라디오 버튼과 레이블 사이 간격 */
+  }
+  
+  label {
+    margin-left: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }

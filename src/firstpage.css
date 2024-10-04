@@ -1,0 +1,72 @@
+/* 전체 배경을 남색으로 설정하고 크기 고정 */
+body, html {
+  margin: 0; /* margin을 줄임 */
+  padding: 0; /* padding을 줄임 */
+  height: 0%; /* 화면 전체 높이 사용 */
+  background-color: #03356f; /* 조금 더 밝은 남색 */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* container가 화면 전체를 차지하도록 설정 */
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* 위쪽 정렬로 변경 */
+  width: 100%;  /* 가로로 전체 화면을 차지 */
+  min-height: 80vh; /* 최소 높이를 80%로 설정 */
+  padding: 0 14%;
+  box-sizing: border-box;
+}
+
+/* 왼쪽 텍스트 */
+.left-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 3.5rem;
+  font-weight: bold;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.left-side div {
+  margin: 5px 0;
+}
+
+/* 오른쪽 텍스트와 버튼 */
+.right-side {
+  text-align: center;
+  color: white;
+}
+
+.main-title {
+  font-size: 4rem; /* 한 줄로 나오도록 크기를 조정 */
+  white-space: nowrap; /* 텍스트 줄바꿈 방지 */
+  margin-bottom: 38px;
+}
+
+.start-btn {
+  padding: 10px 20px;
+  font-size: 1.4rem;
+  color: #000000; /* 남색 글씨 */
+  background-color: white;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.start-btn:hover {
+  background-color: #ddd;
+  transform: scale(1.05);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

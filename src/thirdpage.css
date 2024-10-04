@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.batter-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 중앙 정렬 */
+  padding: 20px;
+}
+
+.batter-group {
+  width: 100%; /* 그룹 전체 너비 사용 */
+  text-align: center; /* 중앙 정렬 */
+  margin-bottom: 20px;
+}
+
+.batter-group-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.batter-names {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* 중앙 정렬 */
+}
+
+.batter-name {
+  margin: 10px;
+}
+
+.batter-name button {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 50px; /* 타원형으로 변경 */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.batter-name button:hover {
+  background-color: red;
+  color: white;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: red;
+  color: white;
+}
