@@ -48,12 +48,22 @@ class ThirdPage extends Component<{ teamName: string }, AppState> {
 
     return (
       <div className="App">
-        <h1>{teamName}가 상대할 타자를 선택하세요</h1>
+        <h1>{teamName}가 상대할 타자를 선택하세요.</h1>
+        
+        {/* Search input for players */}
         <input
           type="search"
-          placeholder="타자 검색"
+          placeholder="Search Batter"
           onChange={this.handleChange}
         />
+        
+        {/* Move the back button below the search input and center align */}
+        <div className="button-container">
+          <Link to="/secondpage">
+            <button className="back-button">뒤로 가기</button>
+          </Link>
+        </div>
+
         <div className="batter-list">
           {Object.keys(groupedBatters).sort().map((letter) => (
             <div key={letter} className="batter-group">
@@ -71,9 +81,6 @@ class ThirdPage extends Component<{ teamName: string }, AppState> {
             </div>
           ))}
         </div>
-        <Link to="/secondpage">
-          <button>뒤로 가기</button>
-        </Link>
       </div>
     );
   }

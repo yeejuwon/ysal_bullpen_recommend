@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+h1 {
+  margin-top: 50px; /* 원하는 여백 값 */
+}
+
 .team-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr); /* 한 줄에 6개의 팀 카드 배치 */
@@ -44,6 +48,7 @@ button {
   padding: 10px 20px;
   text-transform: uppercase;
   cursor: pointer;
+  margin-bottom: 20px;
 }
 
 button:hover {
@@ -51,6 +56,29 @@ button:hover {
   color: white;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center; /* 오른쪽으로 정렬 */
+  margin-top: 20px;
+  margin-bottom: 20px; /* 버튼과 그리드 간의 간격을 위해 하단 마진 추가 */
+}
+
 .team-card:active {
   background-color: lightgray;
+}
+
+input[type="search"] {
+  width: 300px; /* 원하는 너비로 설정 */
+  padding: 10px; /* 패딩 추가하여 텍스트 입력 공간을 넓힘 */
+  font-size: 1.2rem; /* 글꼴 크기 조정 */
+  border: 2px solid #ccc; /* 테두리 색상 설정 */
+  border-radius: 5px; /* 모서리 둥글게 설정 */
+  margin-top: 20px;
+  margin-bottom: 10px; /* 버튼과의 간격을 위해 하단 마진 추가 */
+  transition: border-color 0.3s; /* 테두리 색상 변화에 대한 전환 효과 추가 */
+}
+
+input[type="search"]:focus {
+  border-color: red; /* 포커스 시 테두리 색상 변경 */
+  outline: none; /* 기본 아웃라인 제거 */
 }

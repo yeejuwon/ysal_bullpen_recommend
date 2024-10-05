@@ -24,8 +24,10 @@ const FourthPage: React.FC = () => {
 
   return (
     <div className="fourth-page">
-      <h1>{teamName} 팀이 원하는 상황을 선택하세요</h1> {/* Display team and batter */}
-      <h1>vs. {batterName}</h1>
+      <h1>{teamName} 팀이 원하는 상황을 선택하세요.</h1> {/* Display team and batter */}
+      <h1>
+      <span className="batter-name">Batter Up : {batterName}</span>
+      </h1>
       <form>
         <div className="option">
           <input
@@ -36,7 +38,7 @@ const FourthPage: React.FC = () => {
             checked={selectedOption === 'eRE'}
             onChange={() => handleOptionChange('eRE')}
           />
-          <label htmlFor="ere">Lowest eRE</label>
+          <label htmlFor="ere">LOWEST e&Delta;RE</label>
         </div>
         <div className="option">
           <input

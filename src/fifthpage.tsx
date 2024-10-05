@@ -70,7 +70,10 @@ const FifthPage: React.FC = () => {
 
   return (
     <div className="fifthpage-container">
-      <h1>최종 결과</h1>
+      <h1>
+        최종 결과
+        {situationOption === 'eRE' ? ' (eΔRE)' : ' (NN Distance)'}
+      </h1>
       <div className="pitcher-list">
         {pitchers.length > 0 ? (
           pitchers.map((pitcher, index) => (
@@ -83,17 +86,20 @@ const FifthPage: React.FC = () => {
           <p>선택한 팀과 타자에 대한 데이터가 없습니다.</p>
         )}
       </div>
-
-      {/* 뒤로 가기 버튼 */}
-      <button className="back-button" onClick={handleBack}>
-        뒤로 가기
-      </button>
-
-      <button className="home-button" onClick={() => navigate('/')}>
-        홈으로 돌아가기
-      </button>
+  
+      {/* 버튼을 감싸는 div 추가 */}
+      <div className="button-container">
+        <button className="back-button" onClick={handleBack}>
+          뒤로 가기
+        </button>
+  
+        <button className="home-button" onClick={() => navigate('/')}>
+          홈으로 돌아가기
+        </button>
+      </div>
     </div>
   );
+  
 };
 
 export default FifthPage;

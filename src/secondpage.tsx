@@ -75,12 +75,20 @@ class SecondPage extends Component<{}, AppState> {
 
     return (
       <div className="App">
-        <h1>투수의 팀을 선택하세요</h1>
+        <h1>투수의 팀을 선택하세요.</h1>
         <input
           type="search"
-          placeholder="Search Teams"
+          placeholder="Search Team"
           onChange={this.handleChange}
         />
+        
+        {/* 버튼을 감싸는 div 추가 */}
+        <div className="button-container">
+          <Link to="/">
+            <button>뒤로 가기</button>
+          </Link>
+        </div>
+
         <div className="team-grid">
           {filteredTeams.map((team) => (
             <div key={team.id} className="team-card">
@@ -98,10 +106,6 @@ class SecondPage extends Component<{}, AppState> {
             </div>
           ))}
         </div>
-        {/* 뒤로 가기 버튼 */}
-        <Link to="/">
-          <button>뒤로 가기</button>
-        </Link>
       </div>
     );
   }
